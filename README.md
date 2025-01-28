@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/PLC-808080?logo=siemens&logoColor=white)
 ![](https://img.shields.io/badge/Verilog-red?logo=v&logoColor=white)
 
-### Tools and Frameworks I use:
+### Tools:
 ![](https://img.shields.io/badge/Altium-A5915F?logo=altium%20designer&logoColor=white)
 ![](https://img.shields.io/badge/SolidWorks-005386?logo=dassaultsystemes&logoColor=white)
 ![](https://img.shields.io/badge/-Vitis%20HLS-red)
@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/Arduino_IDE-00979D?logo=arduino&logoColor=white)
 
 
-### MCU/Embedded system I familiar with:
+### MCU/Embedded system:
 ![](https://img.shields.io/badge/-Xilinx%20Zynq%20--%20Zedboard-%23990000%20)
 ![](https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white)
 ![](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry%20Pi&logoColor=white)
